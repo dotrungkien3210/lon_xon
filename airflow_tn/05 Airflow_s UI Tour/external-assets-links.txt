@@ -1,0 +1,6 @@
+
+015 Macros-reference
+https://airflow.apache.org/docs/stable/macros.html
+
+015 DAG-properties
+https://airflow.apache.org/docs/apache-airflow/stable/_api/airflow/models/dag/index.html

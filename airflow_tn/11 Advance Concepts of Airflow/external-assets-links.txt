@@ -1,0 +1,6 @@
+
+037 Airflow-Hooks
+https://airflow.apache.org/docs/stable/_api/airflow/hooks/index.html
+
+039 Airflow-Sensors-List
+https://airflow.apache.org/docs/stable/_api/airflow/sensors/index.html#airflow.sensors._sensors
